@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/dova_mary_only_knows.wav-8ff01bf32d733f30f1fe277cf9c6c5eb.sample"
+
+[deps]
+
+source_file="res://Sounds/BGM/dova_mary_only_knows.wav"
+dest_files=[ "res://.import/dova_mary_only_knows.wav-8ff01bf32d733f30f1fe277cf9c6c5eb.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0
